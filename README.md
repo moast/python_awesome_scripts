@@ -23,6 +23,6 @@ It contains:
      <p>Student & Class classes show the relationship between the two class and how you can call useful functions that will give you the exam grades, avargae class score, etc of each student and of the whole class.</p>
 </ul>
 
-<p>I will be updating this repo regularly with awesome python scripts and programs. Stay tuned!</p>
+<h3>I will be updating this repo regularly with awesome python scripts and programs. Stay tuned!</3>
 
 
